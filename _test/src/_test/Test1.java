@@ -6,5 +6,6 @@ public class Test1
 	{
 		System.out.println("Äã°Ö°Ö²»ÊÇÎÒ");
 		int i = 0;
+		i-=1;
 	}
 }
